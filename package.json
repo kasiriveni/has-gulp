@@ -1,0 +1,23 @@
+{
+  "name": "has-gulp",
+  "version": "1.0.0",
+  "description": "Check if a project is using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasiriveni/has-gulp.git"
+  },
+  "author": "srinvias kasiriveni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasiriveni/has-gulp/issues"
+  },
+  "homepage": "https://github.com/kasiriveni/has-gulp#readme",
+  "keywords": [
+    "gulp",
+    "project"
+  ]
+}
