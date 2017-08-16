@@ -8,5 +8,7 @@ node_js:
   - "6"
   - "7"
   - "8"
-  after_script:
+after_script:
   - npm test
+git:
+  depth: 10
