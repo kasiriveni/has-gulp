@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kasiriveni/has-gulp.svg?branch=master)](https://travis-ci.org/kasiriveni/has-gulp)
 # has-gulp
 Check if a project is using Gulp
 
